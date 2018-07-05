@@ -1,0 +1,7 @@
+for any source in git repo with versioning to download with all versions of that source so the movement of source is easy.
+first goto the source website copy the link.
+Now got to youe cmd line(of repos) and paste the link as shown in next line
+$git clone <git link>
+it will take a while , after it finished
+give the command $<git tag> it show all revisions, so we can go to our respective tag as branch
+git branch/tag
